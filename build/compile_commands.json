@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/lukeg/code/CSC231/SVGProj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\shapes.dir\\main.cpp.obj -c C:\\Users\\lukeg\\code\\CSC231\\SVGProj\\main.cpp",
+  "file": "C:/Users/lukeg/code/CSC231/SVGProj/main.cpp"
+},
+{
+  "directory": "C:/Users/lukeg/code/CSC231/SVGProj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\shapes.dir\\shape.cpp.obj -c C:\\Users\\lukeg\\code\\CSC231\\SVGProj\\shape.cpp",
+  "file": "C:/Users/lukeg/code/CSC231/SVGProj/shape.cpp"
+},
+{
+  "directory": "C:/Users/lukeg/code/CSC231/SVGProj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\shapes.dir\\point.cpp.obj -c C:\\Users\\lukeg\\code\\CSC231\\SVGProj\\point.cpp",
+  "file": "C:/Users/lukeg/code/CSC231/SVGProj/point.cpp"
+},
+{
+  "directory": "C:/Users/lukeg/code/CSC231/SVGProj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\shapes.dir\\properties.cpp.obj -c C:\\Users\\lukeg\\code\\CSC231\\SVGProj\\properties.cpp",
+  "file": "C:/Users/lukeg/code/CSC231/SVGProj/properties.cpp"
+},
+{
+  "directory": "C:/Users/lukeg/code/CSC231/SVGProj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\shapes.dir\\reg_poly.cpp.obj -c C:\\Users\\lukeg\\code\\CSC231\\SVGProj\\reg_poly.cpp",
+  "file": "C:/Users/lukeg/code/CSC231/SVGProj/reg_poly.cpp"
+},
+{
+  "directory": "C:/Users/lukeg/code/CSC231/SVGProj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\shapes.dir\\hex_tiles.cpp.obj -c C:\\Users\\lukeg\\code\\CSC231\\SVGProj\\hex_tiles.cpp",
+  "file": "C:/Users/lukeg/code/CSC231/SVGProj/hex_tiles.cpp"
+},
+{
+  "directory": "C:/Users/lukeg/code/CSC231/SVGProj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\shapes.dir\\ellipse.cpp.obj -c C:\\Users\\lukeg\\code\\CSC231\\SVGProj\\ellipse.cpp",
+  "file": "C:/Users/lukeg/code/CSC231/SVGProj/ellipse.cpp"
+},
+{
+  "directory": "C:/Users/lukeg/code/CSC231/SVGProj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\shapes.dir\\rectangle.cpp.obj -c C:\\Users\\lukeg\\code\\CSC231\\SVGProj\\rectangle.cpp",
+  "file": "C:/Users/lukeg/code/CSC231/SVGProj/rectangle.cpp"
+},
+{
+  "directory": "C:/Users/lukeg/code/CSC231/SVGProj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\shapes.dir\\line.cpp.obj -c C:\\Users\\lukeg\\code\\CSC231\\SVGProj\\line.cpp",
+  "file": "C:/Users/lukeg/code/CSC231/SVGProj/line.cpp"
+},
+{
+  "directory": "C:/Users/lukeg/code/CSC231/SVGProj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\shapes.dir\\svg.cpp.obj -c C:\\Users\\lukeg\\code\\CSC231\\SVGProj\\svg.cpp",
+  "file": "C:/Users/lukeg/code/CSC231/SVGProj/svg.cpp"
+},
+{
+  "directory": "C:/Users/lukeg/code/CSC231/SVGProj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\shapes.dir\\Element.cpp.obj -c C:\\Users\\lukeg\\code\\CSC231\\SVGProj\\Element.cpp",
+  "file": "C:/Users/lukeg/code/CSC231/SVGProj/Element.cpp"
+},
+{
+  "directory": "C:/Users/lukeg/code/CSC231/SVGProj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\shapes.dir\\canvas.cpp.obj -c C:\\Users\\lukeg\\code\\CSC231\\SVGProj\\canvas.cpp",
+  "file": "C:/Users/lukeg/code/CSC231/SVGProj/canvas.cpp"
+}
+]

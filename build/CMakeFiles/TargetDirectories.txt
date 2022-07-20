@@ -1,0 +1,3 @@
+C:/Users/lukeg/code/CSC231/SVGProj/build/CMakeFiles/shapes.dir
+C:/Users/lukeg/code/CSC231/SVGProj/build/CMakeFiles/edit_cache.dir
+C:/Users/lukeg/code/CSC231/SVGProj/build/CMakeFiles/rebuild_cache.dir
