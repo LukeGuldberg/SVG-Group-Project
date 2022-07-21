@@ -4,6 +4,7 @@ Worked on a team of 3 students to provide resuable functions to create pictures 
 My group focused on creating functions to support creation of  ellipses, rectangles and polygons.
 ![Screenshot](svgfile1.png)
 ![Screenshot](svgfile2.png)
+By concatenating strings to produce an XML file that looks like the one above, the other group was able to produce whatever shape they wanted. The shape would be drawn in a browser just like the ellipse above.
 # Backend Team SVG Guide 
 ## Default Constructor
 ```C++
