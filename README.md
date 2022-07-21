@@ -5,7 +5,7 @@ My group focused on creating functions to support creation of  ellipses, rectang
 ![Screenshot](svgfile1.png)
 ![Screenshot](svgfile2.png)
 By concatenating strings to produce an XML file that looks like the one above, the other group was able to produce whatever shape they wanted. The shape would be drawn in a browser just like the ellipse above.
-# Team 1 SVG Guide 
+# Team 1 Guide 
 ## Default Constructor
 ```C++
 class Svg : public Canvas {
