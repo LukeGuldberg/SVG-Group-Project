@@ -1,4 +1,7 @@
 SVG-Group-Project
+Built a program collaboratively with one other group of students to draw pictures using Scalable Vector Graphics (SVG) in HTML. The language used to produce these XML text files was C++. 
+Worked on a team of 3 students to provide resuable functions to create pictures using SVG/XML.
+My group focused on creating functions to support creation of  ellipses, rectangles and polygons.
 # Backend Team SVG Guide 
 ## Default Constructor
 ```C++
